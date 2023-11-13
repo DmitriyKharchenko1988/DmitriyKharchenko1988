@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Просмотры](https://u8views.com/api/v1/github/profiles/133571875/views/day-week-month-total-count.svg)](https://u8views.com/github/ Дмитрий Харченко1988)
