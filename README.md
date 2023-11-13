@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![DmitriyKharchenko1988 profile views](https://u8views.com/api/v1/github/profiles/133571875/views/day-week-month-total-count.svg)](https://u8views.com/github/DmitriyKharchenko1988)
 
-<a href="https://u8views.com/github/DmitriyKharchenko1988"><img src="https://u8views.com/api/v1/github/profiles/133571875/views/day-week-month-total-count.svg"></a>
+
 
