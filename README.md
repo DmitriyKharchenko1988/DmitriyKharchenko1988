@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Просмотры](https://u8views.com/api/v1/github/profiles/133571875/views/day-week-month-total-count.svg)](https://u8views.com/github/ Дмитрий Харченко1988)
+[![DmitriyKharchenko1988 profile views](https://u8views.com/api/v1/github/profiles/133571875/views/day-week-month-total-count.svg)](https://u8views.com/github/DmitriyKharchenko1988)
